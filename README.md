@@ -1,2 +1,2 @@
-# 3STR3LA3-OneCardReading.github.io
+# 3STR3LA3
 One Card Oracle 
