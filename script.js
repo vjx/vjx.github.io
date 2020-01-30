@@ -1690,10 +1690,6 @@
 'https://the-eye.eu/public/Books/Occult_Library/Tarot/Edinamarry%20Tarot%20Decks%20Volume-1/Aeclectic%20Community%20Tarot/81.jpg',
 
 
-
-
-
-
     ];
      
     var length = images.length;
