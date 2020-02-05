@@ -6,5 +6,7 @@ img {
 }
 
 .center {
-  text-align: center;  
+  text-align: center;
+  color: #BEBEBE;
+  font-size: small;  
 }
