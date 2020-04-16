@@ -64,7 +64,6 @@
 'https://sacred-texts.com/tarot/pkt/img/swkn.jpg',
 'https://sacred-texts.com/tarot/pkt/img/swpa.jpg',
 'https://sacred-texts.com/tarot/pkt/img/swqu.jpg',
-'https://sacred-texts.com/tarot/pkt/img/thesun.jpg',
 'https://sacred-texts.com/tarot/pkt/img/wa02.jpg',
 'https://sacred-texts.com/tarot/pkt/img/wa03.jpg',
 'https://sacred-texts.com/tarot/pkt/img/wa04.jpg',
