@@ -3634,11 +3634,6 @@
 'https://the-eye.eu/public/Books/Occult_Library/Tarot/Gothic%20Tarot%20Of%20The%20Vampires/Wands12.jpg',
 'https://the-eye.eu/public/Books/Occult_Library/Tarot/Gothic%20Tarot%20Of%20The%20Vampires/Wands13.jpg',
 'https://the-eye.eu/public/Books/Occult_Library/Tarot/Gothic%20Tarot%20Of%20The%20Vampires/Wands14.jpg',
-
-
-
-
-
     ];
      
     var length = images.length;
